@@ -27,7 +27,7 @@ else:
 # Define hyperparameters for RandomForestRegressor
 n_estimators = 100
 max_depth = 6
-max_features = 3
+max_features = 5
 
 
 # Enable auto-logging
